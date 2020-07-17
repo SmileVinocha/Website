@@ -33,17 +33,17 @@
 }
 
 .java_pro{
-    background-image: url("https://hardikdata.s3.ap-south-1.amazonaws.com/Resume_Project/Statics/JAVA_Logo.png");
+    background-image: url("Statics/bank.png");
     background-size: contain;
 }
 
 .disco_light{
-    background-image: url("https://hardikdata.s3.ap-south-1.amazonaws.com/Resume_Project/Statics/disco_lights.png");
+    background-image: url("/Statics/rocket.png");
     background-size: contain;
 }
 
 .metro{
-    background-image: url("https://hardikdata.s3.ap-south-1.amazonaws.com/Resume_Project/Statics/metro.png");
+    background-image: url("/Statics/mt.png");
     background-size: contain;
 }
 
