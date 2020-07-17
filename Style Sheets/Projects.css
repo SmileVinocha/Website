@@ -38,12 +38,12 @@
 }
 
 .disco_light{
-    background-image: url("/Statics/rocket.png");
+    background-image: url("Statics/rocket.png");
     background-size: contain;
 }
 
 .metro{
-    background-image: url("/Statics/mt.png");
+    background-image: url("Statics/mt.png");
     background-size: contain;
 }
 
