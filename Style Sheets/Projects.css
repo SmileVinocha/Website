@@ -33,7 +33,7 @@
 }
 
 .java_pro{
-    background-image: url("https://github.com/SmileVinocha/Website/blob/master/Statics/bank.png");
+    background-image: url("../Statics/bank.png");
     background-size: contain;
 }
 
@@ -43,7 +43,7 @@
 }
 
 .metro{
-    background-image: url("https://www.jiocloud.com/s/?t=mExdgXPwhqpPGNfc&s=a1");
+    background-image: url("../Statics/mt.png");
     background-size: contain;
 }
 
