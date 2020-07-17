@@ -38,7 +38,7 @@
 }
 
 .disco_light{
-    background-image: url("Statics/rocket.png");
+    background-image: url("../Statics/rocket.png");
     background-size: contain;
 }
 
